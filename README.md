@@ -166,6 +166,4 @@ Built using Godot 3.4.2
 Typeface changes, Tweening, Music and Sound, Shaders, etc.
 
 ## Created by 
-
-Jason Francis
-```
+Jack Joseph
